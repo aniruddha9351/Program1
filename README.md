@@ -1,3 +1,3 @@
 # Program 
 Author : Aniruddha Sachin Jadhav
-create program for practice
+practing program based on C,C++.JAVA
